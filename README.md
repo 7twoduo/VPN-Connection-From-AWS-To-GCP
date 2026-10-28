@@ -1,4 +1,4 @@
-# 🌐 CrossCloud Private Connectivity Fabric — AWS–GCP VPN Routing with Terraform
+# 🌐 VPN Connection from AWS to GCP
 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Site--to--Site%20VPN-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
